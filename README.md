@@ -1,8 +1,8 @@
-<h1 align="left"></h1>
+<h1 align="left"> Yo, I'm Brian</h1>
 
 ###
 
-<p align="left">My name is Brian and I'm currently a 2nd year student, from Quezon City University</p>
+<p align="left">My friends call me Loki I'm currently a 2nd year student, from Quezon City University</p>
 
 ###
 
