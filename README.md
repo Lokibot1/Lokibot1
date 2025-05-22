@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">My friends call me Loki I'm currently a 2nd year student, from Quezon City University</p>
+
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
+<p align="left">My friend's Loki, a passionate Frontend Developer who loves creating beautiful, intuitive user interfaces.</p>
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning vue and UI/UX<br>🎯 Goals: Get Challenger again / learn vue and other frameworks<br>🎲 Random Fact: I like books and films</p>
 
 
