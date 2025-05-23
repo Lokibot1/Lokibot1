@@ -1,12 +1,5 @@
 <h1 align="left"> Yo, I'm Brian</h1>
 
-###
-
-
-
-###
-
-<h2 align="left">About me</h2>
 
 ###
 <p align="left">My friend's call me Loki, currently 2nd year Frontend Developer who loves creating beautiful, intuitive user interfaces.</p>
