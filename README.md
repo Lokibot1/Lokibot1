@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokibot1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&border_radius=10" height="195" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokibot1&locale=en&hide_title=false&layout=compact&card_width=295&langs_count=6&theme=dark&hide_border=false&border_radius=10" height="195" alt="languages graph"/>
   <img src="https://streak-stats.vercel.app/?user=Lokibot1&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokibot1&radius=10&theme=react&area=true&order=5&custom_title=Days%20where%20I'm%20in%20hell&hide_border=false&hide_title=false&bg_color=020001&color=AA0101&line=A00101&point=A00101&title_color=A00101" height="300" alt="activity-graph graph"  />
