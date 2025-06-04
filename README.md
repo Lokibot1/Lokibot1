@@ -13,7 +13,7 @@
 
 ###
 <p align="left">My friend calls me Loki, I'm a Front-End Developer currently taking a Bachelor of Science in Information Technology (BSIT)</p>
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue and UI/UX<br>🎯 Goals: Get Challenger again / learn Vue and other frameworks like React and TypeScript.<br>🎲 Checkout my Letterboxd: https://letterboxd.com/devouredq/</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue and UI/UX<br>🎯 Goals: Get Challenger again / learn Vue and other frameworks and languages like React and TypeScript.<br>🎲 Checkout my Letterboxd: https://letterboxd.com/devouredq/</p>
 
 
 
