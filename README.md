@@ -12,8 +12,8 @@
 ###
 
 ###
-<p align="left">My friend's call me Loki, currently 2nd year Frontend Developer who loves creating beautiful, intuitive user interfaces.</p>
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning vue and UI/UX<br>🎯 Goals: Get Challenger again / learn vue and other frameworks<br>🎲 Random Fact: I like books and films</p>
+<p align="left">My friend calls me Loki, I'm a Front-End Developer currently taking a Bachelor of Science in Information Technology (BSIT)</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue and UI/UX<br>🎯 Goals: Get Challenger again / learn Vue and other frameworks like React and TypeScript.<br>🎲 Checkout my Letterboxd: https://letterboxd.com/devouredq/</p>
 
 
 
@@ -63,9 +63,6 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/lineicons:expressjs.svg?color=%23888888" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
