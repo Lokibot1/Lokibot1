@@ -2,6 +2,16 @@
 
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Lokibot1/count.svg?"  />
+</div>
+
+###
+
+###
 <p align="left">My friend's call me Loki, currently 2nd year Frontend Developer who loves creating beautiful, intuitive user interfaces.</p>
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning vue and UI/UX<br>🎯 Goals: Get Challenger again / learn vue and other frameworks<br>🎲 Random Fact: I like books and films</p>
 
