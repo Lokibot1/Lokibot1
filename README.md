@@ -1,7 +1,10 @@
 <h1 align="left"> Yo, I'm Brian</h1>
 <br clear="both">
 
-###
+  <p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokibot1.Lokibot1" alt="visitor badge"/>
+</p>
+
 
 ###
 <p align="left">My friend calls me Loki, I'm a Front-End Developer currently taking a Bachelor of Science in Information Technology (BSIT)</p>
