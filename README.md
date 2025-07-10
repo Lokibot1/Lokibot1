@@ -1,13 +1,5 @@
 <h1 align="left"> Yo, I'm Brian</h1>
-
-
-###
-
 <br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Lokibot1/count.svg?"  />
-</div>
 
 ###
 
