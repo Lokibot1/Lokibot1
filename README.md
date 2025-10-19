@@ -48,6 +48,9 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:vue.svg?color=%23888888" alt="vuejs" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:react.svg?color=%23888888" alt="reactjs" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
