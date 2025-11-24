@@ -8,8 +8,6 @@
 
 ###
 <p align="left">Ako si Loki, Frontend Developer. Hindi ako masaya sa mga ginagawa ko.</p>
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue and UI/UX<br>🎯 Goals: Get Challenger again / learn Vue and other frameworks and languages like React and TypeScript.<br>🎲 Checkout my Letterboxd: https://letterboxd.com/devouredq/</p>
-
 
 
 <h3 align="left">Connect with me:</h3>
